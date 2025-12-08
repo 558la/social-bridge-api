@@ -41,7 +41,7 @@
 
 2. **请求示例 / Example Request** – 创建一条在 X 上的发帖任务 / Create a post on X:
 ```bash
-POST https://api.example.com/v1/x/post
+POST https://api.558.la/v1/x/post
 Headers:
   Authorization: Bearer YOUR_API_KEY
   Content-Type: application/json
