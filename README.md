@@ -1,6 +1,6 @@
 # 跨境狮 · Social Bridge API（多平台社交全功能接口网关 | Unified API Gateway）
 
-> 为 FB / Instagram / X / TikTok 等平台提供统一、稳定的全功能接口 API 服务。  （支持 Facebook API、Instagram API、X API、TikTok API 全功能调用）
+> 为 Facebook / Instagram / X / TikTok 等平台提供统一、稳定的全功能接口 API 服务。  （支持 Facebook API、Instagram API、X API、TikTok API 全功能调用）
 > Provides a unified and stable full-function API service for FB, Instagram, X (Twitter), and Tik (supporting full functionality of the Facebook API, Instagram API, X API, and TikTok API)Tok.
 
 ## 🚀 产品简介 / Product Overview
